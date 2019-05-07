@@ -1,0 +1,646 @@
+id;name
+3500105;Adamantina
+3500204;Adolfo
+3500303;Agua�
+3500402;�guas da Prata
+3500501;�guas de Lind�ia
+3500550;�guas de Santa B�rbara
+3500600;�guas de S�o Pedro
+3500709;Agudos
+3500758;Alambari
+3500808;Alfredo Marcondes
+3500907;Altair
+3501004;Altin�polis
+3501103;Alto Alegre
+3501152;Alum�nio
+3501202;�lvares Florence
+3501301;�lvares Machado
+3501400;�lvaro de Carvalho
+3501509;Alvinl�ndia
+3501608;Americana
+3501707;Am�rico Brasiliense
+3501806;Am�rico de Campos
+3501905;Amparo
+3502002;Anal�ndia
+3502101;Andradina
+3502200;Angatuba
+3502309;Anhembi
+3502408;Anhumas
+3502507;Aparecida
+3502606;Aparecida d'Oeste
+3502705;Apia�
+3502754;Ara�ariguama
+3502804;Ara�atuba
+3502903;Ara�oiaba da Serra
+3503000;Aramina
+3503109;Arandu
+3503158;Arape�
+3503208;Araraquara
+3503307;Araras
+3503356;Arco-�ris
+3503406;Arealva
+3503505;Areias
+3503604;Arei�polis
+3503703;Ariranha
+3503802;Artur Nogueira
+3503901;Aruj�
+3503950;Asp�sia
+3504008;Assis
+3504107;Atibaia
+3504206;Auriflama
+3504305;Ava�
+3504404;Avanhandava
+3504503;Avar�
+3504602;Bady Bassitt
+3504701;Balbinos
+3504800;B�lsamo
+3504909;Bananal
+3505005;Bar�o de Antonina
+3505104;Barbosa
+3505203;Bariri
+3505302;Barra Bonita
+3505351;Barra do Chap�u
+3505401;Barra do Turvo
+3505500;Barretos
+3505609;Barrinha
+3505708;Barueri
+3505807;Bastos
+3505906;Batatais
+3506003;Bauru
+3506102;Bebedouro
+3506201;Bento de Abreu
+3506300;Bernardino de Campos
+3506359;Bertioga
+3506409;Bilac
+3506508;Birigui
+3506607;Biritiba-Mirim
+3506706;Boa Esperan�a do Sul
+3506805;Bocaina
+3506904;Bofete
+3507001;Boituva
+3507100;Bom Jesus dos Perd�es
+3507159;Bom Sucesso de Itarar�
+3507209;Bor�
+3507308;Borac�ia
+3507407;Borborema
+3507456;Borebi
+3507506;Botucatu
+3507605;Bragan�a Paulista
+3507704;Bra�na
+3507753;Brejo Alegre
+3507803;Brodowski
+3507902;Brotas
+3508009;Buri
+3508108;Buritama
+3508207;Buritizal
+3508306;Cabr�lia Paulista
+3508405;Cabre�va
+3508504;Ca�apava
+3508603;Cachoeira Paulista
+3508702;Caconde
+3508801;Cafel�ndia
+3508900;Caiabu
+3509007;Caieiras
+3509106;Caiu�
+3509205;Cajamar
+3509254;Cajati
+3509304;Cajobi
+3509403;Cajuru
+3509452;Campina do Monte Alegre
+3509502;Campinas
+3509601;Campo Limpo Paulista
+3509700;Campos do Jord�o
+3509809;Campos Novos Paulista
+3509908;Canan�ia
+3509957;Canas
+3510005;C�ndido Mota
+3510104;C�ndido Rodrigues
+3510153;Canitar
+3510203;Cap�o Bonito
+3510302;Capela do Alto
+3510401;Capivari
+3510500;Caraguatatuba
+3510609;Carapicu�ba
+3510708;Cardoso
+3510807;Casa Branca
+3510906;C�ssia dos Coqueiros
+3511003;Castilho
+3511102;Catanduva
+3511201;Catigu�
+3511300;Cedral
+3511409;Cerqueira C�sar
+3511508;Cerquilho
+3511607;Ces�rio Lange
+3511706;Charqueada
+3511904;Clementina
+3512001;Colina
+3512100;Col�mbia
+3512209;Conchal
+3512308;Conchas
+3512407;Cordeir�polis
+3512506;Coroados
+3512605;Coronel Macedo
+3512704;Corumbata�
+3512803;Cosm�polis
+3512902;Cosmorama
+3513009;Cotia
+3513108;Cravinhos
+3513207;Cristais Paulista
+3513306;Cruz�lia
+3513405;Cruzeiro
+3513504;Cubat�o
+3513603;Cunha
+3513702;Descalvado
+3513801;Diadema
+3513850;Dirce Reis
+3513900;Divinol�ndia
+3514007;Dobrada
+3514106;Dois C�rregos
+3514205;Dolcin�polis
+3514304;Dourado
+3514403;Dracena
+3514502;Duartina
+3514601;Dumont
+3514700;Echapor�
+3514809;Eldorado
+3514908;Elias Fausto
+3514924;Elisi�rio
+3514957;Emba�ba
+3515004;Embu
+3515103;Embu-Gua�u
+3515129;Emilian�polis
+3515152;Engenheiro Coelho
+3515186;Esp�rito Santo do Pinhal
+3515194;Esp�rito Santo do Turvo
+3515202;Estrela d'Oeste
+3515301;Estrela do Norte
+3515350;Euclides da Cunha Paulista
+3515400;Fartura
+3515509;Fernand�polis
+3515608;Fernando Prestes
+3515657;Fern�o
+3515707;Ferraz de Vasconcelos
+3515806;Flora Rica
+3515905;Floreal
+3516002;Fl�rida Paulista
+3516101;Flor�nia
+3516200;Franca
+3516309;Francisco Morato
+3516408;Franco da Rocha
+3516507;Gabriel Monteiro
+3516606;G�lia
+3516705;Gar�a
+3516804;Gast�o Vidigal
+3516853;Gavi�o Peixoto
+3516903;General Salgado
+3517000;Getulina
+3517109;Glic�rio
+3517208;Guai�ara
+3517307;Guaimb�
+3517406;Gua�ra
+3517505;Guapia�u
+3517604;Guapiara
+3517703;Guar�
+3517802;Guara�a�
+3517901;Guaraci
+3518008;Guarani d'Oeste
+3518107;Guarant�
+3518206;Guararapes
+3518305;Guararema
+3518404;Guaratinguet�
+3518503;Guare�
+3518602;Guariba
+3518701;Guaruj�
+3518800;Guarulhos
+3518859;Guatapar�
+3518909;Guzol�ndia
+3519006;Hercul�ndia
+3519055;Holambra
+3519071;Hortol�ndia
+3519105;Iacanga
+3519204;Iacri
+3519253;Iaras
+3519303;Ibat�
+3519402;Ibir�
+3519501;Ibirarema
+3519600;Ibitinga
+3519709;Ibi�na
+3519808;Ic�m
+3519907;Iep�
+3520004;Igara�u do Tiet�
+3520103;Igarapava
+3520202;Igarat�
+3520301;Iguape
+3520400;Ilhabela
+3520426;Ilha Comprida
+3520442;Ilha Solteira
+3520509;Indaiatuba
+3520608;Indiana
+3520707;Indiapor�
+3520806;In�bia Paulista
+3520905;Ipaussu
+3521002;Iper�
+3521101;Ipe�na
+3521150;Ipigu�
+3521200;Iporanga
+3521309;Ipu�
+3521408;Iracem�polis
+3521507;Irapu�
+3521606;Irapuru
+3521705;Itaber�
+3521804;Ita�
+3521903;Itajobi
+3522000;Itaju
+3522109;Itanha�m
+3522158;Ita�ca
+3522208;Itapecerica da Serra
+3522307;Itapetininga
+3522406;Itapeva
+3522505;Itapevi
+3522604;Itapira
+3522653;Itapirapu� Paulista
+3522703;It�polis
+3522802;Itaporanga
+3522901;Itapu�
+3523008;Itapura
+3523107;Itaquaquecetuba
+3523206;Itarar�
+3523305;Itariri
+3523404;Itatiba
+3523503;Itatinga
+3523602;Itirapina
+3523701;Itirapu�
+3523800;Itobi
+3523909;Itu
+3524006;Itupeva
+3524105;Ituverava
+3524204;Jaborandi
+3524303;Jaboticabal
+3524402;Jacare�
+3524501;Jaci
+3524600;Jacupiranga
+3524709;Jaguari�na
+3524808;Jales
+3524907;Jambeiro
+3525003;Jandira
+3525102;Jardin�polis
+3525201;Jarinu
+3525300;Ja�
+3525409;Jeriquara
+3525508;Joan�polis
+3525607;Jo�o Ramalho
+3525706;Jos� Bonif�cio
+3525805;J�lio Mesquita
+3525854;Jumirim
+3525904;Jundia�
+3526001;Junqueir�polis
+3526100;Juqui�
+3526209;Juquitiba
+3526308;Lagoinha
+3526407;Laranjal Paulista
+3526506;Lav�nia
+3526605;Lavrinhas
+3526704;Leme
+3526803;Len��is Paulista
+3526902;Limeira
+3527009;Lind�ia
+3527108;Lins
+3527207;Lorena
+3527256;Lourdes
+3527306;Louveira
+3527405;Luc�lia
+3527504;Lucian�polis
+3527603;Lu�s Ant�nio
+3527702;Luizi�nia
+3527801;Lup�rcio
+3527900;Lut�cia
+3528007;Macatuba
+3528106;Macaubal
+3528205;Maced�nia
+3528304;Magda
+3528403;Mairinque
+3528502;Mairipor�
+3528601;Manduri
+3528700;Marab� Paulista
+3528809;Maraca�
+3528858;Marapoama
+3528908;Mari�polis
+3529005;Mar�lia
+3529104;Marin�polis
+3529203;Martin�polis
+3529302;Mat�o
+3529401;Mau�
+3529500;Mendon�a
+3529609;Meridiano
+3529658;Mes�polis
+3529708;Miguel�polis
+3529807;Mineiros do Tiet�
+3529906;Miracatu
+3530003;Mira Estrela
+3530102;Mirand�polis
+3530201;Mirante do Paranapanema
+3530300;Mirassol
+3530409;Mirassol�ndia
+3530508;Mococa
+3530607;Mogi das Cruzes
+3530706;Mogi Gua�u
+3530805;Moji Mirim
+3530904;Mombuca
+3531001;Mon��es
+3531100;Mongagu�
+3531209;Monte Alegre do Sul
+3531308;Monte Alto
+3531407;Monte Apraz�vel
+3531506;Monte Azul Paulista
+3531605;Monte Castelo
+3531704;Monteiro Lobato
+3531803;Monte Mor
+3531902;Morro Agudo
+3532009;Morungaba
+3532058;Motuca
+3532108;Murutinga do Sul
+3532157;Nantes
+3532207;Narandiba
+3532306;Natividade da Serra
+3532405;Nazar� Paulista
+3532504;Neves Paulista
+3532603;Nhandeara
+3532702;Nipo�
+3532801;Nova Alian�a
+3532827;Nova Campina
+3532843;Nova Cana� Paulista
+3532868;Nova Castilho
+3532900;Nova Europa
+3533007;Nova Granada
+3533106;Nova Guataporanga
+3533205;Nova Independ�ncia
+3533254;Novais
+3533304;Nova Luzit�nia
+3533403;Nova Odessa
+3533502;Novo Horizonte
+3533601;Nuporanga
+3533700;Ocau�u
+3533809;�leo
+3533908;Ol�mpia
+3534005;Onda Verde
+3534104;Oriente
+3534203;Orindi�va
+3534302;Orl�ndia
+3534401;Osasco
+3534500;Oscar Bressane
+3534609;Osvaldo Cruz
+3534708;Ourinhos
+3534757;Ouroeste
+3534807;Ouro Verde
+3534906;Pacaembu
+3535002;Palestina
+3535101;Palmares Paulista
+3535200;Palmeira d'Oeste
+3535309;Palmital
+3535408;Panorama
+3535507;Paragua�u Paulista
+3535606;Paraibuna
+3535705;Para�so
+3535804;Paranapanema
+3535903;Paranapu�
+3536000;Parapu�
+3536109;Pardinho
+3536208;Pariquera-A�u
+3536257;Parisi
+3536307;Patroc�nio Paulista
+3536406;Paulic�ia
+3536505;Paul�nia
+3536570;Paulist�nia
+3536604;Paulo de Faria
+3536703;Pederneiras
+3536802;Pedra Bela
+3536901;Pedran�polis
+3537008;Pedregulho
+3537107;Pedreira
+3537156;Pedrinhas Paulista
+3537206;Pedro de Toledo
+3537305;Pen�polis
+3537404;Pereira Barreto
+3537503;Pereiras
+3537602;Peru�be
+3537701;Piacatu
+3537800;Piedade
+3537909;Pilar do Sul
+3538006;Pindamonhangaba
+3538105;Pindorama
+3538204;Pinhalzinho
+3538303;Piquerobi
+3538501;Piquete
+3538600;Piracaia
+3538709;Piracicaba
+3538808;Piraju
+3538907;Piraju�
+3539004;Pirangi
+3539103;Pirapora do Bom Jesus
+3539202;Pirapozinho
+3539301;Pirassununga
+3539400;Piratininga
+3539509;Pitangueiras
+3539608;Planalto
+3539707;Platina
+3539806;Po�
+3539905;Poloni
+3540002;Pomp�ia
+3540101;Ponga�
+3540200;Pontal
+3540259;Pontalinda
+3540309;Pontes Gestal
+3540408;Populina
+3540507;Porangaba
+3540606;Porto Feliz
+3540705;Porto Ferreira
+3540754;Potim
+3540804;Potirendaba
+3540853;Pracinha
+3540903;Prad�polis
+3541000;Praia Grande
+3541059;Prat�nia
+3541109;Presidente Alves
+3541208;Presidente Bernardes
+3541307;Presidente Epit�cio
+3541406;Presidente Prudente
+3541505;Presidente Venceslau
+3541604;Promiss�o
+3541653;Quadra
+3541703;Quat�
+3541802;Queiroz
+3541901;Queluz
+3542008;Quintana
+3542107;Rafard
+3542206;Rancharia
+3542305;Reden��o da Serra
+3542404;Regente Feij�
+3542503;Regin�polis
+3542602;Registro
+3542701;Restinga
+3542800;Ribeira
+3542909;Ribeir�o Bonito
+3543006;Ribeir�o Branco
+3543105;Ribeir�o Corrente
+3543204;Ribeir�o do Sul
+3543238;Ribeir�o dos �ndios
+3543253;Ribeir�o Grande
+3543303;Ribeir�o Pires
+3543402;Ribeir�o Preto
+3543501;Riversul
+3543600;Rifaina
+3543709;Rinc�o
+3543808;Rin�polis
+3543907;Rio Claro
+3544004;Rio das Pedras
+3544103;Rio Grande da Serra
+3544202;Riol�ndia
+3544251;Rosana
+3544301;Roseira
+3544400;Rubi�cea
+3544509;Rubin�ia
+3544608;Sabino
+3544707;Sagres
+3544806;Sales
+3544905;Sales Oliveira
+3545001;Sales�polis
+3545100;Salmour�o
+3545159;Saltinho
+3545209;Salto
+3545308;Salto de Pirapora
+3545407;Salto Grande
+3545506;Sandovalina
+3545605;Santa Ad�lia
+3545704;Santa Albertina
+3545803;Santa B�rbara d'Oeste
+3546009;Santa Branca
+3546108;Santa Clara d'Oeste
+3546207;Santa Cruz da Concei��o
+3546256;Santa Cruz da Esperan�a
+3546306;Santa Cruz das Palmeiras
+3546405;Santa Cruz do Rio Pardo
+3546504;Santa Ernestina
+3546603;Santa F� do Sul
+3546702;Santa Gertrudes
+3546801;Santa Isabel
+3546900;Santa L�cia
+3547007;Santa Maria da Serra
+3547106;Santa Mercedes
+3547205;Santana da Ponte Pensa
+3547304;Santana de Parna�ba
+3547403;Santa Rita d'Oeste
+3547502;Santa Rita do Passa Quatro
+3547601;Santa Rosa de Viterbo
+3547650;Santa Salete
+3547700;Santo Anast�cio
+3547809;Santo Andr�
+3547908;Santo Ant�nio da Alegria
+3548005;Santo Ant�nio de Posse
+3548054;Santo Ant�nio do Aracangu�
+3548104;Santo Ant�nio do Jardim
+3548203;Santo Ant�nio do Pinhal
+3548302;Santo Expedito
+3548401;Sant�polis do Aguape�
+3548500;Santos
+3548609;S�o Bento do Sapuca�
+3548708;S�o Bernardo do Campo
+3548807;S�o Caetano do Sul
+3548906;S�o Carlos
+3549003;S�o Francisco
+3549102;S�o Jo�o da Boa Vista
+3549201;S�o Jo�o das Duas Pontes
+3549250;S�o Jo�o de Iracema
+3549300;S�o Jo�o do Pau d'Alho
+3549409;S�o Joaquim da Barra
+3549508;S�o Jos� da Bela Vista
+3549607;S�o Jos� do Barreiro
+3549706;S�o Jos� do Rio Pardo
+3549805;S�o Jos� do Rio Preto
+3549904;S�o Jos� dos Campos
+3549953;S�o Louren�o da Serra
+3550001;S�o Lu�s do Paraitinga
+3550100;S�o Manuel
+3550209;S�o Miguel Arcanjo
+3550308;S�o Paulo
+3550407;S�o Pedro
+3550506;S�o Pedro do Turvo
+3550605;S�o Roque
+3550704;S�o Sebasti�o
+3550803;S�o Sebasti�o da Grama
+3550902;S�o Sim�o
+3551009;S�o Vicente
+3551108;Sarapu�
+3551207;Sarutai�
+3551306;Sebastian�polis do Sul
+3551405;Serra Azul
+3551504;Serrana
+3551603;Serra Negra
+3551702;Sert�ozinho
+3551801;Sete Barras
+3551900;Sever�nia
+3552007;Silveiras
+3552106;Socorro
+3552205;Sorocaba
+3552304;Sud Mennucci
+3552403;Sumar�
+3552502;Suzano
+3552551;Suzan�polis
+3552601;Tabapu�
+3552700;Tabatinga
+3552809;Tabo�o da Serra
+3552908;Taciba
+3553005;Tagua�
+3553104;Taia�u
+3553203;Tai�va
+3553302;Tamba�
+3553401;Tanabi
+3553500;Tapira�
+3553609;Tapiratiba
+3553658;Taquaral
+3553708;Taquaritinga
+3553807;Taquarituba
+3553856;Taquariva�
+3553906;Tarabai
+3553955;Tarum�
+3554003;Tatu�
+3554102;Taubat�
+3554201;Tejup�
+3554300;Teodoro Sampaio
+3554409;Terra Roxa
+3554508;Tiet�
+3554607;Timburi
+3554656;Torre de Pedra
+3554706;Torrinha
+3554755;Trabiju
+3554805;Trememb�
+3554904;Tr�s Fronteiras
+3554953;Tuiuti
+3555000;Tup�
+3555109;Tupi Paulista
+3555208;Turi�ba
+3555307;Turmalina
+3555356;Ubarana
+3555406;Ubatuba
+3555505;Ubirajara
+3555604;Uchoa
+3555703;Uni�o Paulista
+3555802;Ur�nia
+3555901;Uru
+3556008;Urup�s
+3556107;Valentim Gentil
+3556206;Valinhos
+3556305;Valpara�so
+3556354;Vargem
+3556404;Vargem Grande do Sul
+3556453;Vargem Grande Paulista
+3556503;V�rzea Paulista
+3556602;Vera Cruz
+3556701;Vinhedo
+3556800;Viradouro
+3556909;Vista Alegre do Alto
+3556958;Vit�ria Brasil
+3557006;Votorantim
+3557105;Votuporanga
+3557154;Zacarias
+3557204;Chavantes
+3557303;Estiva Gerbi
